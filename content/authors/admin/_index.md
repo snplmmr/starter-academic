@@ -37,6 +37,6 @@ user_groups:
   - Visitors
 highlight_name: false
 title: Sean Plummer
-email: ""
+email: "snplmmr@stat.tamu.edu"
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
