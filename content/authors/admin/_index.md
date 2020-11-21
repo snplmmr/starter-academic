@@ -1,6 +1,6 @@
 ---
 role: Graduate Student at Texas A&M University
-avatar_filename: snapchat-794694205.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Bayesian statistics, variational inference
   and singular models.
 interests:
