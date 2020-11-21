@@ -24,7 +24,7 @@ education:
   courses:
     - course: PhD in Statistics
       institution: Texas A&M University
-      year: ""
+      year: "2021"
     - course: MSc in Mathematics
       institution: Texas A&M University
       year: 2016
